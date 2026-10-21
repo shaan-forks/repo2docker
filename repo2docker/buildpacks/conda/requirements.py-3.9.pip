@@ -1,0 +1,4 @@
+# conda-forge's latest certifi build requires Python 3.11; use the patched wheel.
+--require-hashes
+--only-binary=:all:
+certifi==2026.10.19 --hash=sha256:42d35340cc5b9ba78e818ddbff0c5b1c2b779de448a340fd1b989f5fa8670e1b
